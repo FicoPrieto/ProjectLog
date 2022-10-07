@@ -1,0 +1,91 @@
+{
+
+//####################################################################################################################//
+//##>  Folders                                                                                                      ##//
+//####################################################################################################################//
+
+	"folders": [
+		{"name":"___  ROOT  ___________________", "path":"../../"       },
+		{"name":"___  ASSETS  ______________",    "path":"../../Assets/"},
+	],
+
+
+//####################################################################################################################//
+//##>  Settings                                                                                                     ##//
+//####################################################################################################################//
+
+	"settings": {
+
+		"window.title": "Project Log",
+
+		"files.exclude": {
+			"Assets":           true,
+			"Common":           true,
+			"NodeRED":          true,
+			"WebApp":           true,
+			"**/*.json.backup": true,
+		},
+
+		"search.exclude": {
+			"Assets":           true,
+			"Common":           true,
+			"NodeRED":          true,
+			"WebApp":           true,
+			"**/*.json.backup": true,
+		},
+
+		"terminal.integrated.cwd": "${workspaceFolder:___  ROOT  ___________________}",
+		"typescript.tsdk":         "../node_modules/typescript/lib/",
+
+		"editor.detectIndentation": false,
+		"editor.insertSpaces":      false,
+		"editor.tabSize":           2,
+
+	},
+
+
+//####################################################################################################################//
+//##>  Tasks                                                                                                        ##//
+//####################################################################################################################//
+
+	"tasks": {
+		"version": "2.0.0",
+
+		"tasks": [
+
+			//--------------------------------------------------------------------------------------------------------------//
+			//  Project                                                                                                     //
+			//--------------------------------------------------------------------------------------------------------------//
+
+				{"label":"Install Dependencies", "command":"yarn install", "type":"shell", "promptOnClose":true, "presentation":{"panel":"dedicated", "reveal":"always", "clear":true, "showReuseMessage":false}},
+
+
+			//--------------------------------------------------------------------------------------------------------------//
+			//  REPL                                                                                                         //
+			//--------------------------------------------------------------------------------------------------------------//
+
+				{"label":"REPL",       "command":"npm run repl",       "type":"shell", "promptOnClose":true, "presentation":{"panel":"dedicated", "reveal":"always", "clear":true, "showReuseMessage":false, "group":"REPL"}},
+				{"label":"REPL-Watch", "command":"npm run repl-watch", "type":"shell", "promptOnClose":true, "presentation":{"panel":"dedicated", "reveal":"always", "clear":true, "showReuseMessage":false, "group":"REPL"}},
+
+
+			//--------------------------------------------------------------------------------------------------------------//
+			//  Dev                                                                                                         //
+			//--------------------------------------------------------------------------------------------------------------//
+
+				{
+					"label":        "Dev",
+					"dependsOrder": "parallel",
+					"presentation": {"panel":"dedicated", "reveal":"always", "clear":true, "showReuseMessage":false, "group":"Dev"},
+					"dependsOn": [
+						"Џ__Dev-1__NodeRED",
+						"Џ__Dev-2__WebApp",
+					],
+				},
+
+				{"label":"Џ__Dev-1__NodeRED", "command":"npm run node-red--dev", "type":"shell", "presentation":{"panel":"dedicated", "reveal":"always", "clear":true, "showReuseMessage":false, "group":"Dev"}},
+				{"label":"Џ__Dev-2__WebApp",  "command":"npm run web-app--dev",  "type":"shell", "presentation":{"panel":"dedicated", "reveal":"always", "clear":true, "showReuseMessage":false, "group":"Dev"}},
+
+		],
+	},
+
+}
