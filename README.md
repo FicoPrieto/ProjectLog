@@ -21,7 +21,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1WMWvCfL-i0LlFhuIX6jLx79f258sv0eo/view">
+      <a href="https://www.youtube.com/watch?v=Y8DLb1mhfdA" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[09-1-T] AV System - Demo.png"/>
       </a>
     </td>
@@ -47,7 +47,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1gbFSXSSwMAbkwY0P9TdkmzqmIQQ8PUPI/view">
+      <a href="https://www.youtube.com/watch?v=dqsWTCNvhPA" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[09-2-T] AV System - Pen UI.png"/>
       </a>
     </td>
@@ -60,12 +60,12 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1lzos93DEiUngkeB8Hq4_iP_eh4qpDitZ/view">
+      <a href="https://www.youtube.com/watch?v=yZ6-jqwBccs" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[09-3-T] AV System - Audio Reactivity.png"/>
       </a>
     </td>
     <td>
-      <p>Audio-visual reactivity between Ableton and TouchDesigner. This is implemented using ShowSync’s LiveGrabber devices for Ableton to detect and send MIDI and audio events via OSC.</p>
+      <p>Audio-visual reactivity between Ableton and TouchDesigner. This is implemented using ShowSync's LiveGrabber devices for Ableton to detect and send MIDI and audio events via OSC.</p>
     </td>
     <td>
     </td>
@@ -73,7 +73,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1-oRKqpYo_9WC4df6sdYzA7zrcnoO3l5q/view">
+      <a href="https://www.youtube.com/watch?v=ifT3eC4p884" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[09-4-T] AV System - Automation.png"/>
       </a>
     </td>
@@ -86,7 +86,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1ybOUirRk7TVmACidX-WLdxmoGXTYGntb/view">
+      <a href="https://www.youtube.com/watch?v=b8jfe6LEx9A" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[09-5-T] AV System - Preset UI.png"/>
       </a>
     </td>
@@ -99,7 +99,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1Nh1YPJQCfZOmqM2IHFPr0O038KF5bjiO/view">
+      <a href="https://www.youtube.com/watch?v=hKOPume-p-8" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[09-7-T] AV System - Audio Cues.png"/>
       </a>
     </td>
@@ -112,12 +112,12 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1hj490yN2tg70832TQYpRWD2VB1d85cjH/view">
+      <a href="https://www.youtube.com/watch?v=vYlCWHHKEbY" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[09-8-T] AV System - Arranged Session.png"/>
       </a>
     </td>
     <td>
-      <p>A sped-up playthrough of this project's <a href="#ableton-live-modular-extension-system">ArrangedSession</a> usage.</p>
+      <p>A sped-up playthrough of this project's <a href="#ableton-live-modular-extension-system" target="_blank">ArrangedSession</a> usage.</p>
     </td>
     <td>
     </td>
@@ -125,7 +125,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="./Assets/Demos/[09-6] AV System - NodeRED.png">
+      <a href="./Assets/Demos/[09-6] AV System - NodeRED.png" target="_blank">
         <img width=350 src="./Assets/Thumbnails/No-Watermark/[09-6-T] AV System - NodeRED.png"/>
       </a>
     </td>
@@ -155,7 +155,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1njtQedUZU2nZEHZTP8oNUXBa9DC2Jp58/view">
+      <a href="https://www.youtube.com/watch?v=Df7Q9Smvkrg" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[05-2-1-T] Jam.jpg"/>
       </a>
     </td>
@@ -178,7 +178,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1WRZJ6H3ewrV23cnf9khoFQwquC6UkEcF/view">
+      <a href="https://www.youtube.com/watch?v=SFvmZgSluxE" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[05-1-T] Preset Interpolation.png"/>
       </a>
     </td>
@@ -191,7 +191,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=1gc5bRq4fCM">
+      <a href="https://www.youtube.com/watch?v=1gc5bRq4fCM" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[05-3-T] Sketchbook Demo.png"/>
       </a>
     </td>
@@ -221,13 +221,13 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=UWx36kl7lq8">
+      <a href="https://www.youtube.com/watch?v=UWx36kl7lq8" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[08-T] ODevs+Stately State Machine Hackathon - HelixRemote Project Demo.png"/>
       </a>
     </td>
     <td>
       <p>A MIDI remote control that optimizes the workflow of the Line 6 Helix device.</p>
-      <p>🏅 This project won the 2nd place award of the <a href="https://www.eventbrite.com/e/state-machine-hackathon-by-stately-and-odevs-tickets-471547420027">State Machine Hackathon by Stately and ODevs</a>.</p>
+      <p>🏅 This project won the 2nd place award of the <a href="https://www.eventbrite.com/e/state-machine-hackathon-by-stately-and-odevs-tickets-471547420027" target="_blank">State Machine Hackathon by Stately and ODevs</a>.</p>
     </td>
     <td>
       <ul>
@@ -258,13 +258,14 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=8nowu8rMn98">
+      <a href="https://www.youtube.com/watch?v=8nowu8rMn98" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[04-2-T] Astro Hackathon Ceremony.png"/>
       </a>
     </td>
     <td>
       <p>A portal system which allows arbitrary nesting of DOM frameworks within Astro.</p>
-      <p>🏅 This project won the bespoke <i>"Mad Scientist"</i> award of the <a href="https://astro.build/blog/astro-1-hackathon/">Astro 1.0 Hackathon</a>.</p>
+      <p>🏅 This project won the bespoke <i>"Mad Scientist"</i> award of the <a href="https://astro.build/blog/astro-1-hackathon/" target="_blank">Astro 1.0 Hackathon</a>.</p>
+      <p>At the time of project submission, Astro did not support framework nesting.</p>
     </td>
     <td>
       <ul>
@@ -282,7 +283,7 @@ These are some personal projects that I've worked on in my free time over the la
   
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=OZHUWVxhKNM">
+      <a href="https://www.youtube.com/watch?v=OZHUWVxhKNM" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[04-1-T] Astro Portal.jpg"/>
       </a>
     </td>
@@ -312,7 +313,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=k7c27E2aYtc">
+      <a href="https://www.youtube.com/watch?v=ahldVWD8654" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[03-1-T] Metronome.png"/>
       </a>
     </td>
@@ -333,7 +334,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1qct8lxe7Qz1L9bxYnjHz9yygk4U28jIe/view">
+      <a href="https://www.youtube.com/watch?v=J7aiR0GMkZ4" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[03-2-T] Metronome - CRUD Entities.png"/>
       </a>
     </td>
@@ -363,7 +364,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1Is0D0fnFfKVDKJBghyAp-3mHgnL_jAcO/view">
+      <a href="https://www.youtube.com/watch?v=xzRgrQ6jYw0" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[06-1-T] LoopControl.png"/>
       </a>
     </td>
@@ -374,7 +375,7 @@ These are some personal projects that I've worked on in my free time over the la
     </td>
     <td>
       <ul>
-        <li>Max</li>
+        <li>MaxForLive</li>
         <li>Python</li>
         <li>TypeScript</li>
       </ul>
@@ -383,7 +384,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="./Assets/Demos/[06-2] LoopControl - Push UI.png">
+      <a href="./Assets/Demos/[06-2] LoopControl - Push UI.png" target="_blank">
         <img width=350 src="./Assets/Thumbnails/No-Watermark/[06-2-T] LoopControl - Push UI.jpg"/>
       </a>
     </td>
@@ -413,7 +414,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://drive.google.com/file/d/1KFVqq8VHZKwh--xb7ZDwoGXEZo1bE-lJ/view">
+      <a href="https://www.youtube.com/watch?v=DoZ-bZXNFng" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[01-T] LaunchPad Script.png"/>
       </a>
     </td>
@@ -448,7 +449,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=9YYuZeO3ebY">
+      <a href="https://www.youtube.com/watch?v=9YYuZeO3ebY" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[02-T] NoteCycler.png"/>
       </a>
     </td>
@@ -458,7 +459,7 @@ These are some personal projects that I've worked on in my free time over the la
     </td>
     <td>
       <ul>
-        <li>Max</li>
+        <li>MaxForLive</li>
         <li>TypeScript</li>
       </ul>
     </td>
@@ -483,7 +484,7 @@ These are some personal projects that I've worked on in my free time over the la
 
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=Kow4d1aYLWc">
+      <a href="https://www.youtube.com/watch?v=Kow4d1aYLWc" target="_blank">
         <img width=350 src="./Assets/Thumbnails/Watermark/[07-T] Modular Sequencer.png"/>
       </a>
     </td>
